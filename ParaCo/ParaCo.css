@@ -1,0 +1,42 @@
+body{
+	border: 6px inset #00ff00;
+	outline: 100px solid #00fff0;
+	padding:50px 0px 50px 0px;
+	margin:130px 50px 50px 50px;
+	background-color: #00f0ff;
+}
+h2{
+		font-family: Georgia;
+}
+a{
+	text-decoration: none;
+	color: #ffffff;
+}
+a:hover{
+	color: lime;
+}
+.fixed{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	width: 100%;
+	background-color: #000000;
+	color:#ffffff;
+}
+.fixed a{
+	margin: 100px;
+}
+.pic {
+    float: left;
+}
+.text{
+	width: 50%;
+	line-height: 160%;
+}
+p {
+    text-indent: 50px;
+}
+div{
+	margin: auto;
+}
